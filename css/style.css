@@ -9,6 +9,10 @@ body {
 	background-size: cover;
 }
 
+#jumboCon {
+	padding-top: 82px;
+}
+
 .jumbotron {
 	background-image: url(../img/site/backgroundImage03.jpg);
 	background-repeat: no-repeat;
