@@ -86,9 +86,24 @@ body {
 	text-shadow: 2px 2px 4px #000000;
 }
 
+#section1 {
+	padding-bottom: 11em;
+}
+
+#section2 {
+	padding-bottom: 11em;
+}
+
+#section3 {
+	padding-bottom: 11em;
+}
+
+#section4 {
+	
+}
+
 #section5 {
-	padding-top: 12.5em;
-	padding-bottom: 12.5em;
+	padding-bottom: 20em;
 }
 
 
